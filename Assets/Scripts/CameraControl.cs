@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraControl : MonoBehaviour
 {
 
-    public float cameraSpeed = 0.3f;
+    public float cameraSpeed = 1.5f;
    
     void FixedUpdate()
     {
